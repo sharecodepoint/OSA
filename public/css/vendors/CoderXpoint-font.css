@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "CoderXpoint-font";
+    src: url("../../fonts/CoderXpoint-font/CoderXpoint-font.ttf?5ff2f70882bedebb09d812961feeb5e7") format("truetype"),
+        url("../../fonts/CoderXpoint-font/CoderXpoint-font.woff?5ff2f70882bedebb09d812961feeb5e7") format("woff"),
+        url("../../fonts/CoderXpoint-font/CoderXpoint-font.woff2?5ff2f70882bedebb09d812961feeb5e7") format("woff2"),
+        url("../../fonts/CoderXpoint-font/CoderXpoint-font.eot?5ff2f70882bedebb09d812961feeb5e7#iefix") format("embedded-opentype"),
+        url("../../fonts/CoderXpoint-font/CoderXpoint-font.svg?5ff2f70882bedebb09d812961feeb5e7#CoderXpoint-font") format("svg");
+}
+
+i[class^="CoderXpoint-font-"]:before, i[class*=" CoderXpoint-font-"]:before {
+    font-family: CoderXpoint-font !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.CoderXpoint-font-cpu:before {
+    content: "\f101";
+}
+.CoderXpoint-font-desktop:before {
+    content: "\f102";
+}
+.CoderXpoint-font-diamond:before {
+    content: "\f103";
+}
+.CoderXpoint-font-dress:before {
+    content: "\f104";
+}
+.CoderXpoint-font-high-heels:before {
+    content: "\f105";
+}
+.CoderXpoint-font-home:before {
+    content: "\f106";
+}
+.CoderXpoint-font-kite:before {
+    content: "\f107";
+}
+.CoderXpoint-font-smartphone:before {
+    content: "\f108";
+}
+.CoderXpoint-font-teddy-bear:before {
+    content: "\f109";
+}
+.CoderXpoint-font-tshirt:before {
+    content: "\f10a";
+}
